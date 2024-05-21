@@ -1,5 +1,12 @@
 # IUDUD
-If you don't do it, you'll die
+If you don't do it, you'll die </br>
 하루에 하나씩 알고리즘을 하지 않으면 죽는다.
 
-![image](https://github.com/GAME-CODING-TEST/IUDUD/assets/26815767/4e45eefd-d32b-447f-8131-4a109cf92a38)
+### Rule
+매일 오전 6시까지 하나의 문제를 푼다( 예시: 2024.05.21. 06:00 ~ 2024.05.22. 05:59 ) </br>
+벌금: 5000원
+
+### GIT Rule
+각자의 브랜치를 만든다. </br>
+브랜치에 자신이 푼 문제를 올린다. </br>
+main 브랜치에 Merge 한다. </br>
