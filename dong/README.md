@@ -1,5 +1,7 @@
-# IUDUD
-If you don't do it, you'll die
-하루에 하나씩 알고리즘을 하지 않으면 죽는다.
+# 김동현
 
-![image](https://github.com/GAME-CODING-TEST/IUDUD/assets/26815767/4e45eefd-d32b-447f-8131-4a109cf92a38)
+| 날짜 | 문제 | 일차 |
+|:---:|:---:|:---|
+| `2024.05.21.` | [`코드트리 - 원형 순열에서의 인원 제거`](https://www.codetree.ai/missions/6/problems/josephus-permutations?&utm_source=clipboard&utm_medium=text) | `1일` |
+
+---
