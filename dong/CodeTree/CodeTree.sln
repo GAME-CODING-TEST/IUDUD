@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240521_원형순열에서의인원제거", "240521_원형순열에서의인원제거\240521_원형순열에서의인원제거.vcxproj", "{23A9D1A5-9CCB-455F-BADA-C3119C058458}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240522_수열조작", "240522_수열조작\240522_수열조작.vcxproj", "{EB2CAA82-5AAB-4D9A-8B5C-929978B5D7F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{23A9D1A5-9CCB-455F-BADA-C3119C058458}.Release|x64.Build.0 = Release|x64
 		{23A9D1A5-9CCB-455F-BADA-C3119C058458}.Release|x86.ActiveCfg = Release|Win32
 		{23A9D1A5-9CCB-455F-BADA-C3119C058458}.Release|x86.Build.0 = Release|Win32
+		{EB2CAA82-5AAB-4D9A-8B5C-929978B5D7F6}.Debug|x64.ActiveCfg = Debug|x64
+		{EB2CAA82-5AAB-4D9A-8B5C-929978B5D7F6}.Debug|x64.Build.0 = Debug|x64
+		{EB2CAA82-5AAB-4D9A-8B5C-929978B5D7F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB2CAA82-5AAB-4D9A-8B5C-929978B5D7F6}.Debug|x86.Build.0 = Debug|Win32
+		{EB2CAA82-5AAB-4D9A-8B5C-929978B5D7F6}.Release|x64.ActiveCfg = Release|x64
+		{EB2CAA82-5AAB-4D9A-8B5C-929978B5D7F6}.Release|x64.Build.0 = Release|x64
+		{EB2CAA82-5AAB-4D9A-8B5C-929978B5D7F6}.Release|x86.ActiveCfg = Release|Win32
+		{EB2CAA82-5AAB-4D9A-8B5C-929978B5D7F6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
