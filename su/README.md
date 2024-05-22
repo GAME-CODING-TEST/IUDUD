@@ -9,7 +9,12 @@ If you don't do it, you'll die
 
 ### 📝 오늘의 학습 목록
 - **프로그래머스 K번째 수** : 정렬
-https://school.programmers.co.kr/learn/courses/30/lessons/42748
-![sort](https://www.computerhope.com/jargon/s/sort.png)
+[✨](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
 
+
+## 📅 24.05.22(수) - Day_02
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 H-Index** : 정렬
+[🙂](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
 ---
