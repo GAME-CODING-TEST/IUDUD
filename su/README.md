@@ -17,4 +17,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 H-Index** : 정렬
 [🙂](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
+
+## 📅 24.05.23(목) - Day_03
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 가장 큰수** : 정렬
+[🙂](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 ---
