@@ -23,4 +23,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 가장 큰수** : 정렬
 [🙂](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
+
+## 📅 24.05.24(금) - Day_04
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 타겟 넘버** : *BFS*/DFS
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
 ---
