@@ -27,6 +27,12 @@ If you don't do it, you'll die
 ## 📅 24.05.24(금) - Day_04
 
 ### 📝 오늘의 학습 목록
-- **프로그래머스 타겟 넘버** : *BFS*/DFS
+- **프로그래머스 타겟 넘버** : BFS/*DFS*
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+
+## 📅 24.05.25(토) - Day_05
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 게임 맵 최단 거리** : *BFS*/DFS
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
 ---
