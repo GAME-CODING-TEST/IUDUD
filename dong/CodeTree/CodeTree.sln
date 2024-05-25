@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240523_덱STL", "240523_덱
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240524_Memoization", "240524_Memoization\240524_Memoization.vcxproj", "{D506540D-505B-42DA-9458-C8E1BB0ECCD5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240525_재귀함수를이용한최소공배수", "240525_재귀함수를이용한최소공배수\240525_재귀함수를이용한최소공배수.vcxproj", "{83F84182-9466-43FB-B6C3-EB150C5E7CD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{D506540D-505B-42DA-9458-C8E1BB0ECCD5}.Release|x64.Build.0 = Release|x64
 		{D506540D-505B-42DA-9458-C8E1BB0ECCD5}.Release|x86.ActiveCfg = Release|Win32
 		{D506540D-505B-42DA-9458-C8E1BB0ECCD5}.Release|x86.Build.0 = Release|Win32
+		{83F84182-9466-43FB-B6C3-EB150C5E7CD6}.Debug|x64.ActiveCfg = Debug|x64
+		{83F84182-9466-43FB-B6C3-EB150C5E7CD6}.Debug|x64.Build.0 = Debug|x64
+		{83F84182-9466-43FB-B6C3-EB150C5E7CD6}.Debug|x86.ActiveCfg = Debug|Win32
+		{83F84182-9466-43FB-B6C3-EB150C5E7CD6}.Debug|x86.Build.0 = Debug|Win32
+		{83F84182-9466-43FB-B6C3-EB150C5E7CD6}.Release|x64.ActiveCfg = Release|x64
+		{83F84182-9466-43FB-B6C3-EB150C5E7CD6}.Release|x64.Build.0 = Release|x64
+		{83F84182-9466-43FB-B6C3-EB150C5E7CD6}.Release|x86.ActiveCfg = Release|Win32
+		{83F84182-9466-43FB-B6C3-EB150C5E7CD6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
