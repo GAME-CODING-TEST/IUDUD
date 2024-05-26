@@ -35,4 +35,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 게임 맵 최단 거리** : *BFS*/DFS
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
+
+## 📅 24.05.26(일) - Day_06
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 네트워크** : *BFS*/DFS
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
 ---
