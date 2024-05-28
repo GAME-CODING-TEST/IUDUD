@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.05.28.` | [`코드트리 - 타일 채우기`](https://www.codetree.ai/missions/6/problems/dp-modeling-tile1/introduction) | `1일` |
 | `2024.05.26.` | [`코드트리 - 파도반 수열`](https://www.codetree.ai/missions/6/problems/dp-padovan?&utm_source=clipboard&utm_medium=text) | `6일` |
 | `2024.05.25.` | [`코드트리 - 재귀함수를 이용한 최소공배수`](https://www.codetree.ai/missions/5/problems/least-common-multiple-using-recursive-function?&utm_source=clipboard&utm_medium=text) | `5일` |
 | `2024.05.24.` | [`코드트리 - 중복된 피보나치`](https://www.codetree.ai/missions/6/problems/dp-fibbo/introduction) | `4일` |
