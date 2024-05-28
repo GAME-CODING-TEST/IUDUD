@@ -41,4 +41,12 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 네트워크** : *BFS*/DFS
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
+
+## 자소서 제출로 인한 휴식
+
+## 📅 24.05.28(화) - Day_07
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 아이템 줍기** : *BFS*/DFS
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/87694)
 ---
