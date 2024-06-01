@@ -57,4 +57,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 베스트 앨범** : Hash
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
+
+## 📅 24.06.01(토) - Day_09
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 단어 변환** : BFS/*DFS*
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
 ---
