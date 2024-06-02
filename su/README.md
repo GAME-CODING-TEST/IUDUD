@@ -63,4 +63,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 단어 변환** : BFS/*DFS*
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
+
+## 📅 24.06.02(일) - Day_10
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 폰켓몬** : Hash
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 ---
