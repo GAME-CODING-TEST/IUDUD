@@ -69,4 +69,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 폰켓몬** : Hash
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
+
+## 📅 24.06.03(월) - Day_11
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 완주하지 못한 선수** : Hash
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
 ---
