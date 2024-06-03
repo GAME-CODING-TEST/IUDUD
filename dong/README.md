@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.06.03` | [`코드트리 - LCS`](https://www.codetree.ai/missions/6/problems/dp-lcs-2?&utm_source=clipboard&utm_medium=text) | `4일` |
 | `2024.06.02` | [`코드트리 - knapsack`](https://www.codetree.ai/missions/6/problems/knapsack-mcq?&utm_source=clipboard&utm_medium=text) | `3일` |
 | `2024.06.01` | [`코드트리 - 가장 긴 증가하는 부분 수열`](https://www.codetree.ai/missions/6/problems/dp-lis-1?&utm_source=clipboard&utm_medium=text) | `2일` |
 | `2024.05.31.` | [`코드트리 - 최대힙 만들기`](https://www.codetree.ai/missions/6/problems/max-heap/introduction), [`코드트리 - 최대힙 삽입 삭제`](https://www.codetree.ai/missions/6/problems/heap-methods/introduction) | `1일` |
