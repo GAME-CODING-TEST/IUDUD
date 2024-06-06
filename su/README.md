@@ -81,4 +81,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 주식가격** : *Stack*/Queue
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+
+## 📅 24.06.06(목) - Day_13
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 기능 개발** : Stack/*Queue*
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 ---
