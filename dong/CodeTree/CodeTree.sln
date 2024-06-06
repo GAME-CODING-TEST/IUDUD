@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240604_EditDistance2", "240
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240605_FractionKnapsack", "240605_FractionKnapsack\240605_FractionKnapsack.vcxproj", "{60924AE4-95EE-437D-BF6F-431619F4D744}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240606_달팽이숫자문제", "240606_달팽이숫자문제\240606_달팽이숫자문제.vcxproj", "{841504BD-5256-4873-9D43-EADD53829308}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{60924AE4-95EE-437D-BF6F-431619F4D744}.Release|x64.Build.0 = Release|x64
 		{60924AE4-95EE-437D-BF6F-431619F4D744}.Release|x86.ActiveCfg = Release|Win32
 		{60924AE4-95EE-437D-BF6F-431619F4D744}.Release|x86.Build.0 = Release|Win32
+		{841504BD-5256-4873-9D43-EADD53829308}.Debug|x64.ActiveCfg = Debug|x64
+		{841504BD-5256-4873-9D43-EADD53829308}.Debug|x64.Build.0 = Debug|x64
+		{841504BD-5256-4873-9D43-EADD53829308}.Debug|x86.ActiveCfg = Debug|Win32
+		{841504BD-5256-4873-9D43-EADD53829308}.Debug|x86.Build.0 = Debug|Win32
+		{841504BD-5256-4873-9D43-EADD53829308}.Release|x64.ActiveCfg = Release|x64
+		{841504BD-5256-4873-9D43-EADD53829308}.Release|x64.Build.0 = Release|x64
+		{841504BD-5256-4873-9D43-EADD53829308}.Release|x86.ActiveCfg = Release|Win32
+		{841504BD-5256-4873-9D43-EADD53829308}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
