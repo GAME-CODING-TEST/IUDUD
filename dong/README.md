@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.06.07` | [`코드트리 - Fraction Knapsack2`](https://www.codetree.ai/missions/6/problems/fractional-knapsack-2?&utm_source=clipboard&utm_medium=text) | `8일` |
 | `2024.06.06` | [`코드트리 - 달팽이숫자문제1`](https://www.codetree.ai/missions/5/problems/snail-number-square/introduction) | `7일` |
 | `2024.06.05` | [`코드트리 - Fraction Knapsack`](https://www.codetree.ai/missions/6/problems/fractional-knapsack/introduction) | `6일` |
 | `2024.06.04` | [`코드트리 - Edit Distance2`](https://www.codetree.ai/missions/6/problems/minimum-edit-2?&utm_source=clipboard&utm_medium=text) | `5일` |
