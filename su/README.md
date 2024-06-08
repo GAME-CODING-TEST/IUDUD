@@ -88,10 +88,15 @@ If you don't do it, you'll die
 - **프로그래머스 기능 개발** : Stack/*Queue*
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 
-
 ## 📅 24.06.07(금) - Day_14
 
 ### 📝 오늘의 학습 목록
 - **프로그래머스 카펫** : 완전탐색
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
+
+## 📅 24.06.08(토) - Day_15
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 올바른 괄호** : *Stack*/Queue
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
 ---
