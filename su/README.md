@@ -105,4 +105,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 의상** : Hash
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
+
+## 📅 24.06.11(화) - Day_17
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 전화번호 목록** : Hash
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
 ---
