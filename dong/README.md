@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.06.12` | [`코드트리 - Kruskal`](https://www.codetree.ai/missions/6/problems/ga-kruskal/introduction) | `13일` |
 | `2024.06.11` | [`코드트리 - Floyd Warshall`](https://www.codetree.ai/missions/6/problems/ga-floyd/introduction) | `12일` |
 | `2024.06.10` | [`코드트리 - Dijkstra`](https://www.codetree.ai/missions/6/problems/ga-dijkstra/introduction) | `11일` |
 | `2024.06.09` | [`코드트리 - BFS`](https://www.codetree.ai/missions/6/problems/bfs-code/introduction) | `10일` |
