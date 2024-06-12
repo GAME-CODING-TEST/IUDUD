@@ -111,4 +111,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 전화번호 목록** : Hash
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+
+## 📅 24.06.12(수) - Day_18
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 최소 직사각형** : 완전탐색
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
 ---
