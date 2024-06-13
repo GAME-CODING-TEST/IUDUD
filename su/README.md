@@ -117,4 +117,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 최소 직사각형** : 완전탐색
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
+
+## 📅 24.06.13(목) - Day_19
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 모의고사** : 완전탐색
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
 ---
