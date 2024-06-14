@@ -123,4 +123,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 모의고사** : 완전탐색
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
+
+## 📅 24.06.14(금) - Day_20
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 피로도** : 완전탐색
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
 ---
