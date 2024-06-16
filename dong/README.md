@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.06.16` | [`코드트리 - 최고의33위치`](https://www.codetree.ai/missions/2/problems/best-place-of-33?&utm_source=clipboard&utm_medium=text) | `17일` |
 | `2024.06.15` | [`코드트리 - Topological Sort(In-Degree)`](https://www.codetree.ai/missions/6/problems/topological-sort-concept/introduction) | `16일` |
 | `2024.06.14` | [`코드트리 - Topological Sort(DFS)`](https://www.codetree.ai/missions/6/problems/topological-sort-concept/introduction) | `15일` |
 | `2024.06.13` | [`코드트리 - Prim`](https://www.codetree.ai/missions/6/problems/ga-prim/introduction) | `14일` |
