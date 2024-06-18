@@ -135,4 +135,17 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 전력망을 둘로 나누기** : 완전탐색
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
+
+## 📅 24.06.16(일) - Day_22
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 광물캐기** : dfs
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/172927)
+
+## 📅 24.06.17(월) - Day_23
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 체육복** : DP
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
+
 ---
