@@ -154,4 +154,10 @@ If you don't do it, you'll die
 - **프로그래머스 다리를 지나는 트럭** : Queue
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 
+## 📅 24.06.19(수) - Day_25
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 같은 숫자는 싫어** : Queue
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
+
 ---
