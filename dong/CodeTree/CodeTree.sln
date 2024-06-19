@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240616_최고의33위치", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240618_행복한수열의개수", "240618_행복한수열의개수\240618_행복한수열의개수.vcxproj", "{4B16DA1B-78CE-45BE-9B38-79022F06585B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240619_트로미노", "240619_트로미노\240619_트로미노.vcxproj", "{16B3C790-1057-472C-B384-E7FAD6BA179B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -271,6 +273,14 @@ Global
 		{4B16DA1B-78CE-45BE-9B38-79022F06585B}.Release|x64.Build.0 = Release|x64
 		{4B16DA1B-78CE-45BE-9B38-79022F06585B}.Release|x86.ActiveCfg = Release|Win32
 		{4B16DA1B-78CE-45BE-9B38-79022F06585B}.Release|x86.Build.0 = Release|Win32
+		{16B3C790-1057-472C-B384-E7FAD6BA179B}.Debug|x64.ActiveCfg = Debug|x64
+		{16B3C790-1057-472C-B384-E7FAD6BA179B}.Debug|x64.Build.0 = Debug|x64
+		{16B3C790-1057-472C-B384-E7FAD6BA179B}.Debug|x86.ActiveCfg = Debug|Win32
+		{16B3C790-1057-472C-B384-E7FAD6BA179B}.Debug|x86.Build.0 = Debug|Win32
+		{16B3C790-1057-472C-B384-E7FAD6BA179B}.Release|x64.ActiveCfg = Release|x64
+		{16B3C790-1057-472C-B384-E7FAD6BA179B}.Release|x64.Build.0 = Release|x64
+		{16B3C790-1057-472C-B384-E7FAD6BA179B}.Release|x86.ActiveCfg = Release|Win32
+		{16B3C790-1057-472C-B384-E7FAD6BA179B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
