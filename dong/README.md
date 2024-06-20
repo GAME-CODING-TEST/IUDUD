@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.06.20` | [`코드트리 - 금채굴하기`](https://www.codetree.ai/missions/2/problems/gold-mining?&utm_source=clipboard&utm_medium=text) | `3일` |
 | `2024.06.19` | [`코드트리 - 트리미노`](https://www.codetree.ai/missions/2/problems/tromino?&utm_source=clipboard&utm_medium=text) | `2일` |
 | `2024.06.18` | [`코드트리 - 행복한수열의개수`](https://www.codetree.ai/missions/2/problems/number-of-happy-sequence?&utm_source=clipboard&utm_medium=text) | `1일` |
 | `2024.06.16` | [`코드트리 - 최고의33위치`](https://www.codetree.ai/missions/2/problems/best-place-of-33?&utm_source=clipboard&utm_medium=text) | `17일` |

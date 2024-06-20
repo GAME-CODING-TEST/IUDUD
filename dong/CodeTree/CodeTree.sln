@@ -57,6 +57,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240618_행복한수열의�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240619_트로미노", "240619_트로미노\240619_트로미노.vcxproj", "{16B3C790-1057-472C-B384-E7FAD6BA179B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240620_금채굴하기", "240620_금채굴하기\240620_금채굴하기.vcxproj", "{2DE972DD-90D3-4CD3-8E01-A622E0C9629C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -281,6 +283,14 @@ Global
 		{16B3C790-1057-472C-B384-E7FAD6BA179B}.Release|x64.Build.0 = Release|x64
 		{16B3C790-1057-472C-B384-E7FAD6BA179B}.Release|x86.ActiveCfg = Release|Win32
 		{16B3C790-1057-472C-B384-E7FAD6BA179B}.Release|x86.Build.0 = Release|Win32
+		{2DE972DD-90D3-4CD3-8E01-A622E0C9629C}.Debug|x64.ActiveCfg = Debug|x64
+		{2DE972DD-90D3-4CD3-8E01-A622E0C9629C}.Debug|x64.Build.0 = Debug|x64
+		{2DE972DD-90D3-4CD3-8E01-A622E0C9629C}.Debug|x86.ActiveCfg = Debug|Win32
+		{2DE972DD-90D3-4CD3-8E01-A622E0C9629C}.Debug|x86.Build.0 = Debug|Win32
+		{2DE972DD-90D3-4CD3-8E01-A622E0C9629C}.Release|x64.ActiveCfg = Release|x64
+		{2DE972DD-90D3-4CD3-8E01-A622E0C9629C}.Release|x64.Build.0 = Release|x64
+		{2DE972DD-90D3-4CD3-8E01-A622E0C9629C}.Release|x86.ActiveCfg = Release|Win32
+		{2DE972DD-90D3-4CD3-8E01-A622E0C9629C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
