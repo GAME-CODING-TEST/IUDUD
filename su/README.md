@@ -160,4 +160,10 @@ If you don't do it, you'll die
 - **프로그래머스 같은 숫자는 싫어** : Queue
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
 
+## 📅 24.06.20(목) - Day_26
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 가장 먼 노드** : Graph
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/49189)
+
 ---
