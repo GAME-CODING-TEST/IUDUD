@@ -166,4 +166,10 @@ If you don't do it, you'll die
 - **프로그래머스 가장 먼 노드** : Graph
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/49189)
 
+## 📅 24.06.21(금) - Day_27
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 최댓값과 최솟값** : string
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
+
 ---
