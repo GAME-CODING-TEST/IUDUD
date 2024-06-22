@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.06.22` | [`코드트리 - 겹치지 않는 두 직사각형`](https://www.codetree.ai/missions/2/problems/non-overlapping-two-rectangles?&utm_source=clipboard&utm_medium=text) | `5일` |
 | `2024.06.21` | [`코드트리 - 기울어진직사각형`](https://www.codetree.ai/missions/2/problems/slanted-rectangle?&utm_source=clipboard&utm_medium=text) | `4일` |
 | `2024.06.20` | [`코드트리 - 금채굴하기`](https://www.codetree.ai/missions/2/problems/gold-mining?&utm_source=clipboard&utm_medium=text) | `3일` |
 | `2024.06.19` | [`코드트리 - 트리미노`](https://www.codetree.ai/missions/2/problems/tromino?&utm_source=clipboard&utm_medium=text) | `2일` |
