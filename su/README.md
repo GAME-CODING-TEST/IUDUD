@@ -172,4 +172,10 @@ If you don't do it, you'll die
 - **프로그래머스 최댓값과 최솟값** : string
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
 
+## 📅 24.06.22(토) - Day_28
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 소수찾기** : 완탐
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
+
 ---
