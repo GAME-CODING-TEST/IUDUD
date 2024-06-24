@@ -184,4 +184,12 @@ If you don't do it, you'll die
 - **프로그래머스 리코쳇 로봇** : bfs
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
 
+## 📅 24.06.24(월) - Day_30
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 요격 시스템** : sort
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
+
+
+
 ---
