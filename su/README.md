@@ -190,6 +190,9 @@ If you don't do it, you'll die
 - **프로그래머스 요격 시스템** : sort
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
 
+## 📅 24.06.25(화) - Day_31
 
-
+### 📝 오늘의 학습 목록
+- **프로그래머스 최솟값 만들기** : sort
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
 ---
