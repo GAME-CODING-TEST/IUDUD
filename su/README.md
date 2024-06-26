@@ -195,4 +195,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 최솟값 만들기** : sort
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
+
+## 📅 24.06.26(수) - Day_32
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 정수 삼각형** : DP
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
 ---
