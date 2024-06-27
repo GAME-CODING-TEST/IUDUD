@@ -178,4 +178,27 @@ If you don't do it, you'll die
 - **프로그래머스 소수찾기** : 완탐
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
 
+## 📅 24.06.23(일) - Day_29
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 리코쳇 로봇** : bfs
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
+
+## 📅 24.06.24(월) - Day_30
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 요격 시스템** : sort
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/181188)
+
+## 📅 24.06.25(화) - Day_31
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 최솟값 만들기** : sort
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
+
+## 📅 24.06.26(수) - Day_32
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 정수 삼각형** : DP
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
 ---
