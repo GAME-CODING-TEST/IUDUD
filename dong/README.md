@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.06.27` | [`백준 - N과M(9)`](https://www.acmicpc.net/problem/15663) | `1일` |
 | `2024.06.23` | [`코드트리 - 양수 직사각형의 최대 크기`](https://www.codetree.ai/missions/2/problems/max-area-of-positive-rectangle?&utm_source=clipboard&utm_medium=text) | `6일` |
 | `2024.06.22` | [`코드트리 - 겹치지 않는 두 직사각형`](https://www.codetree.ai/missions/2/problems/non-overlapping-two-rectangles?&utm_source=clipboard&utm_medium=text) | `5일` |
 | `2024.06.21` | [`코드트리 - 기울어진직사각형`](https://www.codetree.ai/missions/2/problems/slanted-rectangle?&utm_source=clipboard&utm_medium=text) | `4일` |
