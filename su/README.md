@@ -201,4 +201,13 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 정수 삼각형** : DP
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
+
+
+### 면접준비
+
+## 📅 24.06.28(목) - Day_33
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 할인 행사** : map
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
 ---
