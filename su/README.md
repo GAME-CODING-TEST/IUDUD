@@ -205,9 +205,15 @@ If you don't do it, you'll die
 
 ### 면접준비
 
-## 📅 24.06.28(목) - Day_33
+## 📅 24.06.28(금) - Day_33
 
 ### 📝 오늘의 학습 목록
 - **프로그래머스 할인 행사** : map
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
+
+## 📅 24.06.29(토) - Day_34
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 JadenCase 문자열 만들기** : 완탐
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
 ---
