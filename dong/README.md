@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.06.29` | [`백준 - 쇠막대기`](https://www.acmicpc.net/problem/10799) | `3일` |
 | `2024.06.28` | [`백준 - N과M(1)`](https://www.acmicpc.net/problem/15649) | `2일` |
 | `2024.06.27` | [`백준 - N과M(9)`](https://www.acmicpc.net/problem/15663) | `1일` |
 | `2024.06.23` | [`코드트리 - 양수 직사각형의 최대 크기`](https://www.codetree.ai/missions/2/problems/max-area-of-positive-rectangle?&utm_source=clipboard&utm_medium=text) | `6일` |
