@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.06.30` | [`백준 - 새로운 문자열 만들기`](https://www.acmicpc.net/problem/30089) | `4일` |
 | `2024.06.29` | [`백준 - 쇠막대기`](https://www.acmicpc.net/problem/10799) | `3일` |
 | `2024.06.28` | [`백준 - N과M(1)`](https://www.acmicpc.net/problem/15649) | `2일` |
 | `2024.06.27` | [`백준 - N과M(9)`](https://www.acmicpc.net/problem/15663) | `1일` |
