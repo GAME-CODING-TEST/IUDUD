@@ -216,4 +216,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 JadenCase 문자열 만들기** : 완탐
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+
+## 📅 24.06.30(일) - Day_35
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 이진 변환 반복하기** : 완탐
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 ---
