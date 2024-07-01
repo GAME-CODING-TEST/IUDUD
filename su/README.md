@@ -222,4 +222,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 이진 변환 반복하기** : 완탐
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
+
+## 📅 24.07.01(월) - Day_36
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 짝지어 제거하기** : stack
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
 ---
