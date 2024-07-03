@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.07.02` | [`백준 - 좌표 정렬하기`](https://www.acmicpc.net/problem/11650) | `6일` |
 | `2024.07.01` | [`백준 - 줄 세우기`](https://www.acmicpc.net/problem/2252) | `5일` |
 | `2024.06.30` | [`백준 - 새로운 문자열 만들기`](https://www.acmicpc.net/problem/30089) | `4일` |
 | `2024.06.29` | [`백준 - 쇠막대기`](https://www.acmicpc.net/problem/10799) | `3일` |
