@@ -234,4 +234,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 점프와 순간이동** : 완탐
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
+
+## 📅 24.07.03(수) - Day_38
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 귤 고르기** : map
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
 ---
