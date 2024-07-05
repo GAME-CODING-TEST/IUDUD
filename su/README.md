@@ -245,5 +245,11 @@ If you don't do it, you'll die
 
 ### 📝 오늘의 학습 목록
 - **프로그래머스 숫자의 표현** : 완탐
-[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
+
+## 📅 24.07.05(금) - Day_40
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 피보나치 수** : DP
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
 ---
