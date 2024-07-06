@@ -252,4 +252,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 피보나치 수** : DP
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
+
+## 📅 24.07.06(토) - Day_41
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 예상 대진표**
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
 ---
