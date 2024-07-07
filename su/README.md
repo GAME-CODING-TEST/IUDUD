@@ -258,4 +258,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 예상 대진표**
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
+
+## 📅 24.07.07(일) - Day_42
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 야근 지수** : queue
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12927)
 ---
