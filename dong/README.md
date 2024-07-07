@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.07.06` | [`백준 - 단어정렬`](https://www.acmicpc.net/problem/1181) | `10일` |
 | `2024.07.05` | [`백준 - 2*n 타일링2`](https://www.acmicpc.net/problem/11727) | `9일` |
 | `2024.07.04` | [`백준 - 피보나치 수`](https://www.acmicpc.net/problem/2747) | `8일` |
 | `2024.07.03` | [`백준 - 보물`](https://www.acmicpc.net/problem/11650) | `7일` |
