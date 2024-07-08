@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.07.08` | [`백준 - 그룹단어체커`](https://www.acmicpc.net/problem/1316) | `12일` |
 | `2024.07.07` | [`백준 - 돌게임`](https://www.acmicpc.net/problem/9655) | `11일` |
 | `2024.07.06` | [`백준 - 단어정렬`](https://www.acmicpc.net/problem/1181) | `10일` |
 | `2024.07.05` | [`백준 - 2*n 타일링2`](https://www.acmicpc.net/problem/11727) | `9일` |
