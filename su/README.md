@@ -264,4 +264,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 야근 지수** : queue
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12927)
+
+## 📅 24.07.08(월) - Day_43
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 N개의 최소공배수** : 수학
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
 ---
