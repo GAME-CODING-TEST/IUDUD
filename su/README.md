@@ -270,4 +270,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 N개의 최소공배수** : 수학
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
+
+## 📅 24.07.09(화) - Day_44
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 다음 큰 숫자** : 수
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
 ---
