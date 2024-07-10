@@ -276,4 +276,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 다음 큰 숫자** : 수
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
+
+## 📅 24.07.10(수) - Day_45
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 영어 끝말잇기** : Set
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
 ---
