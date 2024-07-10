@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.07.10` | [`프로그래머스 - 특수문자 출력하기`](https://school.programmers.co.kr/learn/courses/30/lessons/181948) | `15일` |
 | `2024.07.09` | [`프로그래머스 - 대소문자 바꿔서 출력하기`](https://school.programmers.co.kr/learn/courses/30/lessons/181949) | `13일` |
 | `2024.07.08` | [`백준 - 그룹단어체커`](https://www.acmicpc.net/problem/1316) | `12일` |
 | `2024.07.07` | [`백준 - 돌게임`](https://www.acmicpc.net/problem/9655) | `11일` |
