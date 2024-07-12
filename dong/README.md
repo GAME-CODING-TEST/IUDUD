@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.07.12` | [`프로그래머스 - 문자열 겹쳐쓰기`](https://school.programmers.co.kr/learn/courses/30/lessons/181943) | `17일` |
 | `2024.07.11` | [`프로그래머스 - 홀짝 구분하기`](https://school.programmers.co.kr/learn/courses/30/lessons/181944) | `16일` |
 | `2024.07.10` | [`프로그래머스 - 특수문자 출력하기`](https://school.programmers.co.kr/learn/courses/30/lessons/181948) | `15일` |
 | `2024.07.09` | [`프로그래머스 - 대소문자 바꿔서 출력하기`](https://school.programmers.co.kr/learn/courses/30/lessons/181949) | `13일` |
