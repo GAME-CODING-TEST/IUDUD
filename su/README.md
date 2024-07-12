@@ -274,7 +274,7 @@ If you don't do it, you'll die
 ## 📅 24.07.09(화) - Day_44
 
 ### 📝 오늘의 학습 목록
-- **프로그래머스 다음 큰 숫자** : 수
+- **프로그래머스 다음 큰 숫자** : 수학
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
 
 ## 📅 24.07.10(수) - Day_45
@@ -288,4 +288,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 구명 보트** : Sort
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
+
+## 📅 24.07.12(금) - Day_47
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 홀 케이크 자르기** : map
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
 ---
