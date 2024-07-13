@@ -294,4 +294,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 홀 케이크 자르기** : map
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
+
+## 📅 24.07.13(토) - Day_48
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 행렬의 곱** : 수학
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
 ---
