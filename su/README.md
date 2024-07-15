@@ -300,4 +300,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 행렬의 곱** : 수학
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
+
+## 📅 24.07.14(일) - Day_49
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 택배상자** : stack
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
 ---
