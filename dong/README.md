@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.07.16` | [`프로그래머스 - 문자열 정수의 합`](https://school.programmers.co.kr/learn/courses/30/lessons/181849) | `21일` |
 | `2024.07.15` | [`프로그래머스 - 더 크게 합치기`](https://school.programmers.co.kr/learn/courses/30/lessons/181939) | `20일` |
 | `2024.07.14` | [`프로그래머스 - 문자열 곱하기`](https://school.programmers.co.kr/learn/courses/30/lessons/181940) | `19일` |
 | `2024.07.13` | [`프로그래머스 - 문자 리스트를 문자열로 변환하기`](https://school.programmers.co.kr/learn/courses/30/lessons/181941) | `18일` |
