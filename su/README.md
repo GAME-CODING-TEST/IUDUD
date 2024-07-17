@@ -318,4 +318,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 주차 요금 계산** : map
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
+
+## 📅 24.07.17(수) - Day_52
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 방문 길이** : set
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
 ---
