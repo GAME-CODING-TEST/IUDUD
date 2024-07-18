@@ -324,4 +324,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 방문 길이** : set
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
+
+## 📅 24.07.18(목) - Day_53
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 땅따먹기** : dp
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
 ---
