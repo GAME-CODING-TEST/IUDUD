@@ -330,4 +330,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 땅따먹기** : dp
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
+
+## 📅 24.07.19(금) - Day_54
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 스킬트리** : map
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/49993)
 ---
