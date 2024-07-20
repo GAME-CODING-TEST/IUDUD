@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240718_배열비교하기",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240719_rnyString", "240719_rnyString\240719_rnyString.vcxproj", "{4BAE830B-0E1A-45EE-A0D0-7838E80B5965}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240720_문자열바꿔서찾기", "240720_문자열바꿔서찾기\240720_문자열바꿔서찾기.vcxproj", "{AAB5E381-C2D2-4124-A4EB-BB9FE2B4D476}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{4BAE830B-0E1A-45EE-A0D0-7838E80B5965}.Release|x64.Build.0 = Release|x64
 		{4BAE830B-0E1A-45EE-A0D0-7838E80B5965}.Release|x86.ActiveCfg = Release|Win32
 		{4BAE830B-0E1A-45EE-A0D0-7838E80B5965}.Release|x86.Build.0 = Release|Win32
+		{AAB5E381-C2D2-4124-A4EB-BB9FE2B4D476}.Debug|x64.ActiveCfg = Debug|x64
+		{AAB5E381-C2D2-4124-A4EB-BB9FE2B4D476}.Debug|x64.Build.0 = Debug|x64
+		{AAB5E381-C2D2-4124-A4EB-BB9FE2B4D476}.Debug|x86.ActiveCfg = Debug|Win32
+		{AAB5E381-C2D2-4124-A4EB-BB9FE2B4D476}.Debug|x86.Build.0 = Debug|Win32
+		{AAB5E381-C2D2-4124-A4EB-BB9FE2B4D476}.Release|x64.ActiveCfg = Release|x64
+		{AAB5E381-C2D2-4124-A4EB-BB9FE2B4D476}.Release|x64.Build.0 = Release|x64
+		{AAB5E381-C2D2-4124-A4EB-BB9FE2B4D476}.Release|x86.ActiveCfg = Release|Win32
+		{AAB5E381-C2D2-4124-A4EB-BB9FE2B4D476}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
