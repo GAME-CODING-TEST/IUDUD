@@ -336,4 +336,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 스킬트리** : map
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/49993)
+
+## 📅 24.07.20(토) - Day_55
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 숫자 변환하기** : bfs
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/154538)
 ---
