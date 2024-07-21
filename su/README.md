@@ -342,4 +342,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 숫자 변환하기** : bfs
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/154538)
+
+## 📅 24.07.21(일) - Day_56
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 숫자 게임** : sort
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12987)
 ---
