@@ -348,4 +348,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 숫자 게임** : sort
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12987)
+
+## 📅 24.07.22(월) - Day_57
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 뒤에 있는 큰 숫자 찾기** : stack
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/154539)
 ---
