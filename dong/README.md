@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.07.23` | [`프로그래머스 - 조건 문자열`](https://school.programmers.co.kr/learn/courses/30/lessons/181934) | `28일` |
 | `2024.07.22` | [`프로그래머스 - 홀짝에따라다른값반환`](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | `27일` |
 | `2024.07.21` | [`프로그래머스 - 공백으로 구분하기2`](https://school.programmers.co.kr/learn/courses/30/lessons/181868) | `26일` |
 | `2024.07.20` | [`프로그래머스 - 문자열 바꿔서 찾기`](https://school.programmers.co.kr/learn/courses/30/lessons/181864) | `25일` |
