@@ -354,4 +354,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 뒤에 있는 큰 숫자 찾기** : stack
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/154539)
+
+## 📅 24.07.23(화) - Day_58
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 단속 카메라** : dp
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42884)
 ---
