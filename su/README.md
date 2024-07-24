@@ -360,4 +360,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 단속 카메라** : dp
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42884)
+
+## 📅 24.07.24(수) - Day_59
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 전화번호 목록** : sort
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
 ---
