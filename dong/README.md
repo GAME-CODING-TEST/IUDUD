@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.07.26` | [`프로그래머스 - 주사위게임2`](https://school.programmers.co.kr/learn/courses/30/lessons/181930) | `31일` |
 | `2024.07.25` | [`프로그래머스 - 등차수열의 특정한 항만 더하기`](https://school.programmers.co.kr/learn/courses/30/lessons/181931) | `30일` |
 | `2024.07.24` | [`프로그래머스 - 코드 처리하기`](https://school.programmers.co.kr/learn/courses/30/lessons/181932) | `29일` |
 | `2024.07.23` | [`프로그래머스 - 조건 문자열`](https://school.programmers.co.kr/learn/courses/30/lessons/181934) | `28일` |
