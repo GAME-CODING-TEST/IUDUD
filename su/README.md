@@ -366,4 +366,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 전화번호 목록** : sort
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+
+## 📅 24.07.25(목) - Day_60
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 기능 개발** : math
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 ---
