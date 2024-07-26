@@ -372,4 +372,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 기능 개발** : math
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
+
+## 📅 24.07.26(금) - Day_61
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 2xn 타일링** : dp
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
 ---
