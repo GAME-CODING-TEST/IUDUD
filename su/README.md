@@ -378,4 +378,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 2xn 타일링** : dp
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
+
+## 📅 24.07.27(토) - Day_62
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 모음 사전** : 완전탐색
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
 ---
