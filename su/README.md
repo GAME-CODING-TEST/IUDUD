@@ -390,4 +390,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 시소 짝꿍** : dp
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
+
+## 📅 24.07.29(월) - Day_64
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 마법의 엘리베이터** : 재귀
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
 ---
