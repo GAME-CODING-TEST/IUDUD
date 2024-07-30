@@ -396,4 +396,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 마법의 엘리베이터** : 재귀
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
+
+## 📅 24.07.30(화) - Day_65
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 호텔 대실** : 완전탐색
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
 ---
