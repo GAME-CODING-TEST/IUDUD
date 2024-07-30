@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240728_수열과구간쿼�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240729_카운트업", "240729_카운트업\240729_카운트업.vcxproj", "{D741FBBC-63F3-4CB1-8DE0-A09A24E02291}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240730_배열만들기4", "240730_배열만들기4\240730_배열만들기4.vcxproj", "{CD4B5E5C-EF0D-4AA2-A0F1-86CFF9380943}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -221,6 +223,14 @@ Global
 		{D741FBBC-63F3-4CB1-8DE0-A09A24E02291}.Release|x64.Build.0 = Release|x64
 		{D741FBBC-63F3-4CB1-8DE0-A09A24E02291}.Release|x86.ActiveCfg = Release|Win32
 		{D741FBBC-63F3-4CB1-8DE0-A09A24E02291}.Release|x86.Build.0 = Release|Win32
+		{CD4B5E5C-EF0D-4AA2-A0F1-86CFF9380943}.Debug|x64.ActiveCfg = Debug|x64
+		{CD4B5E5C-EF0D-4AA2-A0F1-86CFF9380943}.Debug|x64.Build.0 = Debug|x64
+		{CD4B5E5C-EF0D-4AA2-A0F1-86CFF9380943}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD4B5E5C-EF0D-4AA2-A0F1-86CFF9380943}.Debug|x86.Build.0 = Debug|Win32
+		{CD4B5E5C-EF0D-4AA2-A0F1-86CFF9380943}.Release|x64.ActiveCfg = Release|x64
+		{CD4B5E5C-EF0D-4AA2-A0F1-86CFF9380943}.Release|x64.Build.0 = Release|x64
+		{CD4B5E5C-EF0D-4AA2-A0F1-86CFF9380943}.Release|x86.ActiveCfg = Release|Win32
+		{CD4B5E5C-EF0D-4AA2-A0F1-86CFF9380943}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
