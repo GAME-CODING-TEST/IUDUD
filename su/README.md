@@ -402,4 +402,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 호텔 대실** : 완전탐색
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
+
+## 📅 24.07.31(수) - Day_66
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 숫자카드 나누기** : 완전탐색
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
 ---
