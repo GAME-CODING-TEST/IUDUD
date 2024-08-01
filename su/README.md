@@ -408,4 +408,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 숫자카드 나누기** : 완전탐색
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
+
+## 📅 24.08.01(목) - Day_67
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 큰 수 만들기** : dp
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
 ---
