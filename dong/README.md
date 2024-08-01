@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.08.01` | [`프로그래머스 - 원소들의 곱과 합`](https://school.programmers.co.kr/learn/courses/30/lessons/181929) | `37일` |
 | `2024.07.31` | [`프로그래머스 - 콜라츠 수열 만들기`](https://school.programmers.co.kr/learn/courses/30/lessons/181919) | `36일` |
 | `2024.07.30` | [`프로그래머스 - 배열 만들기4`](https://school.programmers.co.kr/learn/courses/30/lessons/181918) | `35일` |
 | `2024.07.29` | [`프로그래머스 - 카운트 업`](https://school.programmers.co.kr/learn/courses/30/lessons/181920) | `34일` |
