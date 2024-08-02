@@ -414,4 +414,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 큰 수 만들기** : dp
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
+
+## 📅 24.08.02(목) - Day_68
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 가장 큰 정사각형 찾기** : 완탐
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12905)
 ---
