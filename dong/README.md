@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.08.03` | [`프로그래머스 - 9로 나눈 나머지`]() | `39일` |
 | `2024.08.02` | [`프로그래머스 - 수열과 구간 쿼리4`](https://school.programmers.co.kr/learn/courses/30/lessons/181922) | `38일` |
 | `2024.08.01` | [`프로그래머스 - 원소들의 곱과 합`](https://school.programmers.co.kr/learn/courses/30/lessons/181929) | `37일` |
 | `2024.07.31` | [`프로그래머스 - 콜라츠 수열 만들기`](https://school.programmers.co.kr/learn/courses/30/lessons/181919) | `36일` |
