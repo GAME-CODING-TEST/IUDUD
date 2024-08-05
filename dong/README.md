@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.08.05` | [`프로그래머스 - 부분 문자열 이어 붙여 문자열 만들기`](https://school.programmers.co.kr/learn/courses/30/lessons/181911) | `41일` |
 | `2024.08.04` | [`프로그래머스 - 배열 만들기5`](https://school.programmers.co.kr/learn/courses/30/lessons/181912) | `40일` |
 | `2024.08.03` | [`프로그래머스 - 9로 나눈 나머지`](https://school.programmers.co.kr/learn/courses/30/lessons/181914) | `39일` |
 | `2024.08.02` | [`프로그래머스 - 수열과 구간 쿼리4`](https://school.programmers.co.kr/learn/courses/30/lessons/181922) | `38일` |

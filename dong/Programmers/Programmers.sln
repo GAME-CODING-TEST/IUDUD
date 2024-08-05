@@ -57,6 +57,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240803_9로나눈나머지"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240804_배열만들기5", "240804_배열만들기5\240804_배열만들기5.vcxproj", "{AE10E371-B73B-4B91-A7AD-3F54826D87E4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240805_부분문자열이어붙여문자열만들기", "240805_부분문자열이어붙여문자열만들기\240805_부분문자열이어붙여문자열만들기.vcxproj", "{58E6ACE8-C4E9-4498-8C0B-07AE1B418988}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -281,6 +283,14 @@ Global
 		{AE10E371-B73B-4B91-A7AD-3F54826D87E4}.Release|x64.Build.0 = Release|x64
 		{AE10E371-B73B-4B91-A7AD-3F54826D87E4}.Release|x86.ActiveCfg = Release|Win32
 		{AE10E371-B73B-4B91-A7AD-3F54826D87E4}.Release|x86.Build.0 = Release|Win32
+		{58E6ACE8-C4E9-4498-8C0B-07AE1B418988}.Debug|x64.ActiveCfg = Debug|x64
+		{58E6ACE8-C4E9-4498-8C0B-07AE1B418988}.Debug|x64.Build.0 = Debug|x64
+		{58E6ACE8-C4E9-4498-8C0B-07AE1B418988}.Debug|x86.ActiveCfg = Debug|Win32
+		{58E6ACE8-C4E9-4498-8C0B-07AE1B418988}.Debug|x86.Build.0 = Debug|Win32
+		{58E6ACE8-C4E9-4498-8C0B-07AE1B418988}.Release|x64.ActiveCfg = Release|x64
+		{58E6ACE8-C4E9-4498-8C0B-07AE1B418988}.Release|x64.Build.0 = Release|x64
+		{58E6ACE8-C4E9-4498-8C0B-07AE1B418988}.Release|x86.ActiveCfg = Release|Win32
+		{58E6ACE8-C4E9-4498-8C0B-07AE1B418988}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
