@@ -438,4 +438,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 n^2 배열 자르기** : 
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/87390)
+
+## 📅 24.08.06(화) - Day_72
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 기지국 설치** : 
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12979)
 ---
