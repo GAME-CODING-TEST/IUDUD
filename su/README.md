@@ -432,4 +432,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 연속 부분 수열 합의 개수** : set
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
+
+## 📅 24.08.05(월) - Day_71
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 n^2 배열 자르기** : 
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/87390)
 ---
