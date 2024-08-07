@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.08.07` | [`프로그래머스 - 접미사 배열`](https://school.programmers.co.kr/learn/courses/30/lessons/181909) | `43일` |
 | `2024.08.06` | [`프로그래머스 - 문자열 뒤의 n글자`](https://school.programmers.co.kr/learn/courses/30/lessons/181910) | `42일` |
 | `2024.08.05` | [`프로그래머스 - 부분 문자열 이어 붙여 문자열 만들기`](https://school.programmers.co.kr/learn/courses/30/lessons/181911) | `41일` |
 | `2024.08.04` | [`프로그래머스 - 배열 만들기5`](https://school.programmers.co.kr/learn/courses/30/lessons/181912) | `40일` |
