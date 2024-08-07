@@ -444,4 +444,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 기지국 설치** : 
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/12979)
+
+## 📅 24.08.07(수) - Day_73
+
+### 📝 오늘의 학습 목록
+- **프로그래머스 괄호회전하기** : stack
+[🎶](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
 ---
