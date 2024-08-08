@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240806_문자열뒤n글자"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240807_접미사배열", "240807_접미사배열\240807_접미사배열.vcxproj", "{1BDE8022-3C25-49FD-B0FE-201DD6793E4C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240808_접미사인지확인", "240808_접미사인지확인\240808_접미사인지확인.vcxproj", "{A4D090D7-7E88-4BB4-8A95-B3F8EF57C9CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -311,6 +313,14 @@ Global
 		{1BDE8022-3C25-49FD-B0FE-201DD6793E4C}.Release|x64.Build.0 = Release|x64
 		{1BDE8022-3C25-49FD-B0FE-201DD6793E4C}.Release|x86.ActiveCfg = Release|Win32
 		{1BDE8022-3C25-49FD-B0FE-201DD6793E4C}.Release|x86.Build.0 = Release|Win32
+		{A4D090D7-7E88-4BB4-8A95-B3F8EF57C9CB}.Debug|x64.ActiveCfg = Debug|x64
+		{A4D090D7-7E88-4BB4-8A95-B3F8EF57C9CB}.Debug|x64.Build.0 = Debug|x64
+		{A4D090D7-7E88-4BB4-8A95-B3F8EF57C9CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{A4D090D7-7E88-4BB4-8A95-B3F8EF57C9CB}.Debug|x86.Build.0 = Debug|Win32
+		{A4D090D7-7E88-4BB4-8A95-B3F8EF57C9CB}.Release|x64.ActiveCfg = Release|x64
+		{A4D090D7-7E88-4BB4-8A95-B3F8EF57C9CB}.Release|x64.Build.0 = Release|x64
+		{A4D090D7-7E88-4BB4-8A95-B3F8EF57C9CB}.Release|x86.ActiveCfg = Release|Win32
+		{A4D090D7-7E88-4BB4-8A95-B3F8EF57C9CB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
