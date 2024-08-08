@@ -450,4 +450,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **프로그래머스 괄호회전하기** : stack
 [🎶](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
+
+## 📅 24.08.08(목) - Day_74
+
+### 📝 오늘의 학습 목록
+- **백준 다이얼** : 구현
+[🎶](https://www.acmicpc.net/problem/5622)
 ---
