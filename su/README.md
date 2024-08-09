@@ -456,4 +456,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 다이얼** : 구현
 [🎶](https://www.acmicpc.net/problem/5622)
+
+## 📅 24.08.09(금) - Day_75
+
+### 📝 오늘의 학습 목록
+- **백준 세로읽기** : 문자열
+[🎶](https://www.acmicpc.net/problem/10798)
 ---
