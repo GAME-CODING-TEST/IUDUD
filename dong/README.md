@@ -2,6 +2,7 @@
 
 | 날짜 | 문제 | 일차 |
 |:---:|:---:|:---|
+| `2024.08.10` | [`프로그래머스 - 문자열 여러 번 뒤집기`](https://school.programmers.co.kr/learn/courses/30/lessons/181913) | `46일` |
 | `2024.08.09` | [`프로그래머스 - 주사위 게임3`](https://school.programmers.co.kr/learn/courses/30/lessons/181916) | `45일` |
 | `2024.08.08` | [`프로그래머스 - 접미사인지 확인하기`](https://school.programmers.co.kr/learn/courses/30/lessons/181908) | `44일` |
 | `2024.08.07` | [`프로그래머스 - 접미사 배열`](https://school.programmers.co.kr/learn/courses/30/lessons/181909) | `43일` |
