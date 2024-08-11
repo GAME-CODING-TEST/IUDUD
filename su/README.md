@@ -468,4 +468,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 피보나치 함수** : dp
 [🎶](https://www.acmicpc.net/problem/1003)
+
+## 📅 24.08.11(일) - Day_77
+
+### 📝 오늘의 학습 목록
+- **백준 괄호** : stack
+[🎶](https://www.acmicpc.net/problem/9012)
 ---
