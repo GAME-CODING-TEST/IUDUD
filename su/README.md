@@ -474,4 +474,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 괄호** : stack
 [🎶](https://www.acmicpc.net/problem/9012)
+
+## 📅 24.08.12(월) - Day_78
+
+### 📝 오늘의 학습 목록
+- **백준 단어 정렬** : sort
+[🎶](https://www.acmicpc.net/problem/1181)
 ---
