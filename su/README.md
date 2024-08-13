@@ -480,4 +480,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 단어 정렬** : sort
 [🎶](https://www.acmicpc.net/problem/1181)
+
+## 📅 24.08.13(화) - Day_79
+
+### 📝 오늘의 학습 목록
+- **백준 합 구하기** : 구간합
+[🎶](https://www.acmicpc.net/problem/11441)
 ---
