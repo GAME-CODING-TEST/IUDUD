@@ -486,4 +486,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 합 구하기** : 구간합
 [🎶](https://www.acmicpc.net/problem/11441)
+
+## 📅 24.08.14(수) - Day_80
+
+### 📝 오늘의 학습 목록
+- **백준 스택2** : stack
+[🎶](https://www.acmicpc.net/problem/28278)
 ---
