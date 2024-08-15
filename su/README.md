@@ -492,4 +492,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 스택2** : stack
 [🎶](https://www.acmicpc.net/problem/28278)
+
+## 📅 24.08.15(목) - Day_81
+
+### 📝 오늘의 학습 목록
+- **백준 좌표 정렬하기** : sort
+[🎶](https://www.acmicpc.net/problem/11650)
 ---
