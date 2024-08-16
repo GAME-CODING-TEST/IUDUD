@@ -498,4 +498,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 좌표 정렬하기** : sort
 [🎶](https://www.acmicpc.net/problem/11650)
+
+## 📅 24.08.16(금) - Day_82
+
+### 📝 오늘의 학습 목록
+- **백준 나이순 정렬** : sort
+[🎶](https://www.acmicpc.net/problem/10814)
 ---
