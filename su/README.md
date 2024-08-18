@@ -510,4 +510,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 듣보잡** : sort, set
 [🎶](https://www.acmicpc.net/problem/1764)
+
+## 📅 24.08.18(금) - Day_84
+
+### 📝 오늘의 학습 목록
+- **백준 좌표 정렬하기2** : sort
+[🎶](https://www.acmicpc.net/problem/11651)
 ---
