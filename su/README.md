@@ -522,4 +522,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 제로** : stack
 [🎶](https://www.acmicpc.net/problem/10773)
+
+## 📅 24.08.20(화) - Day_86
+
+### 📝 오늘의 학습 목록
+- **백준 숫자카드** : set
+[🎶](https://www.acmicpc.net/problem/10815)
 ---
