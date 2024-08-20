@@ -9,15 +9,17 @@ int solution(int a, int b, int c, int d)
 {
     int answer = 0;
 
-    vector<int> table(6);
-    table[a - 1]++;    table[b - 1]++;    table[c - 1]++;    table[d - 1]++;
+    // 주사위 결과
+    vector<int> result(6);
+    result[a - 1]++;    result[b - 1]++;    result[c - 1]++;    result[d - 1]++;
+
     vector<vector<int>> nums(5);
-    nums[table[0]].emplace_back(1);
-    nums[table[1]].emplace_back(2);
-    nums[table[2]].emplace_back(3);
-    nums[table[3]].emplace_back(4);
-    nums[table[4]].emplace_back(5);
-    nums[table[5]].emplace_back(6);
+    nums[result[0]].emplace_back(1);     // 1번이 나온 횟수
+    nums[result[1]].emplace_back(2);     // 2번이 나온 횟수
+    nums[result[2]].emplace_back(3);
+    nums[result[3]].emplace_back(4);
+    nums[result[4]].emplace_back(5);
+    nums[result[5]].emplace_back(6);     // 6번이 나온 횟수
 
     if (!nums[4].empty())
     {
