@@ -535,9 +535,15 @@ If you don't do it, you'll die
 - **백준 숫자카드2** : map
 [🎶](https://www.acmicpc.net/problem/10816)
 
-## 📅 24.08.22() - Day_88
+## 📅 24.08.22(목) - Day_88
 
 ### 📝 오늘의 학습 목록
 - **백준 회사에 있는 사람** : set
 [🎶](https://www.acmicpc.net/problem/7785)
+
+## 📅 24.08.24(금) - Day_89
+
+### 📝 오늘의 학습 목록
+- **백준 회사에 있는 균형잡힌 세상** : stack
+[🎶](https://www.acmicpc.net/problem/4949)
 ---
