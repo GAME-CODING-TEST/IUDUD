@@ -544,6 +544,12 @@ If you don't do it, you'll die
 ## 📅 24.08.24(금) - Day_89
 
 ### 📝 오늘의 학습 목록
-- **백준 회사에 있는 균형잡힌 세상** : stack
+- **백준 균형잡힌 세상** : stack
 [🎶](https://www.acmicpc.net/problem/4949)
+
+## 📅 24.08.25(토) - Day_90
+
+### 📝 오늘의 학습 목록
+- **백준 베스트셀러** : map
+[🎶](https://www.acmicpc.net/problem/1302)
 ---
