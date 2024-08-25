@@ -552,4 +552,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 베스트셀러** : map
 [🎶](https://www.acmicpc.net/problem/1302)
+
+## 📅 24.08.26(일) - Day_91
+
+### 📝 오늘의 학습 목록
+- **백준 요세푸스 문제 0** : queue
+[🎶](https://www.acmicpc.net/problem/11866)
 ---
