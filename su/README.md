@@ -541,21 +541,27 @@ If you don't do it, you'll die
 - **백준 회사에 있는 사람** : set
 [🎶](https://www.acmicpc.net/problem/7785)
 
-## 📅 24.08.24(금) - Day_89
+## 📅 24.08.23(금) - Day_89
 
 ### 📝 오늘의 학습 목록
 - **백준 균형잡힌 세상** : stack
 [🎶](https://www.acmicpc.net/problem/4949)
 
-## 📅 24.08.25(토) - Day_90
+## 📅 24.08.23(토) - Day_90
 
 ### 📝 오늘의 학습 목록
 - **백준 베스트셀러** : map
 [🎶](https://www.acmicpc.net/problem/1302)
 
-## 📅 24.08.26(일) - Day_91
+## 📅 24.08.25(일) - Day_91
 
 ### 📝 오늘의 학습 목록
 - **백준 요세푸스 문제 0** : queue
 [🎶](https://www.acmicpc.net/problem/11866)
+
+## 📅 24.08.26(월) - Day_92
+
+### 📝 오늘의 학습 목록
+- **백준 도키도키 간식드리미** : stack
+[🎶](https://www.acmicpc.net/problem/12789)
 ---
