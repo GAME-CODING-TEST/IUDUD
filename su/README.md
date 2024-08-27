@@ -564,4 +564,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 도키도키 간식드리미** : stack
 [🎶](https://www.acmicpc.net/problem/12789)
+
+## 📅 24.08.27(화) - Day_93
+
+### 📝 오늘의 학습 목록
+- **백준 수열** : 누적합
+[🎶](https://www.acmicpc.net/problem/2559)
 ---
