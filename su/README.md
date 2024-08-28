@@ -570,4 +570,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 수열** : 누적합
 [🎶](https://www.acmicpc.net/problem/2559)
+
+## 📅 24.08.28(수) - Day_94
+
+### 📝 오늘의 학습 목록
+- **백준 게임** : 이진탐색
+[🎶](https://www.acmicpc.net/problem/1072)
 ---
