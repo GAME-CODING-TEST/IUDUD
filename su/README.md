@@ -576,4 +576,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 게임** : 이진탐색
 [🎶](https://www.acmicpc.net/problem/1072)
+
+## 📅 24.08.28(목) - Day_95
+
+### 📝 오늘의 학습 목록
+- **백준 꿀 아르바이트** : 누적합
+[🎶](https://www.acmicpc.net/problem/12847)
 ---
