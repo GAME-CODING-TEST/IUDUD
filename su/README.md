@@ -582,4 +582,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 꿀 아르바이트** : 누적합
 [🎶](https://www.acmicpc.net/problem/12847)
+
+## 📅 24.08.29(금) - Day_96
+
+### 📝 오늘의 학습 목록
+- **백준 큐2** : queue
+[🎶](https://www.acmicpc.net/problem/18258)
 ---
