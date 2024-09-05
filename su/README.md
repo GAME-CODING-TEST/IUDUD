@@ -613,9 +613,15 @@ If you don't do it, you'll die
 - **백준 DNA 비밀번호** : 슬라이딩 윈도우
 [🎶](https://www.acmicpc.net/problem/12891)
 
-## 📅 24.09.03(화) - Day_100
+## 📅 24.09.04(수) - Day_101
 
 ### 📝 오늘의 학습 목록
 - **백준 최솟값 찾기** : 슬라이딩 윈도우
 [🎶](https://www.acmicpc.net/problem/11003)
+
+## 📅 24.09.05(목) - Day_102
+
+### 📝 오늘의 학습 목록
+- **백준 스택 수열** : stack
+[🎶](https://www.acmicpc.net/problem/1874)
 ---
