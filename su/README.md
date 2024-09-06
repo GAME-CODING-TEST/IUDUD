@@ -624,4 +624,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 스택 수열** : stack
 [🎶](https://www.acmicpc.net/problem/1874)
+
+## 📅 24.09.06(금) - Day_103
+
+### 📝 오늘의 학습 목록
+- **백준 오큰수** : stack
+[🎶](https://www.acmicpc.net/problem/17298)
 ---
