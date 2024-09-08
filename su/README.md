@@ -630,9 +630,16 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 오큰수** : stack
 [🎶](https://www.acmicpc.net/problem/17298)
-## 📅 24.09.06(금) - Day_103
+
+## 📅 24.09.07(토) - Day_104
 
 ### 📝 오늘의 학습 목록
 - **백준 카드2** : queue
 [🎶](https://www.acmicpc.net/problem/2164)
+
+## 📅 24.09.08(일) - Day_105
+
+### 📝 오늘의 학습 목록
+- **백준 절댓값 힙** : queue
+[🎶](https://www.acmicpc.net/problem/11286)
 ---
