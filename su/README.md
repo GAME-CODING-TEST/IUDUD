@@ -642,4 +642,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 절댓값 힙** : queue
 [🎶](https://www.acmicpc.net/problem/11286)
+
+## 📅 24.09.09(월) - Day_106
+
+### 📝 오늘의 학습 목록
+- **백준 수 정렬하기** : sort
+[🎶](https://www.acmicpc.net/problem/2750)
 ---
