@@ -648,4 +648,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 수 정렬하기** : sort
 [🎶](https://www.acmicpc.net/problem/2750)
+
+## 📅 24.09.10(화) - Day_107
+
+### 📝 오늘의 학습 목록
+- **백준 버블소트** : sort
+[🎶](https://www.acmicpc.net/problem/1377)
 ---
