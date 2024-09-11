@@ -654,4 +654,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 버블소트** : sort
 [🎶](https://www.acmicpc.net/problem/1377)
+
+## 📅 24.09.11(수) - Day_108
+
+### 📝 오늘의 학습 목록
+- **백준 소트인사이드** : sort
+[🎶](https://www.acmicpc.net/problem/1427)
 ---
