@@ -15,24 +15,21 @@ using namespace std;
 unordered_map<string, string> um;
 unordered_map<string, int> nums;
 
-
-string find(string a){
-	if(um[a] == a){
-		return a;
-	}
-	else{
-		return um[a] = find(um[a]);
-	}
+string find (string a) {
+  if (um[a] == a)
+    return a;
+  else
+    return um[a] = find(um[a]);
 }
 
-void uni(string a, string b){
-	string A = find(a);
-	string B = find(b);
+void uni (string a, string b) {
+  string A = find(a);
+  string B = find(b);
 
-	if(A==B) return;
+  if (A == B) return;
 
-	um[B] = A;
-	nums[A] += nums[B];
+  um[B] = A;
+  nums[A] += nums[B];
 }
 
 int main(int argc, char** argv)
