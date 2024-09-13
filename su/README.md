@@ -661,11 +661,16 @@ If you don't do it, you'll die
 - **백준 소트인사이드** : sort
 [🎶](https://www.acmicpc.net/problem/1427)
 
-
 ## 📅 24.09.12(목) - Day_109
 
 ### 📝 오늘의 학습 목록
 - **백준 수 정렬하기** : sort
 [🎶](https://www.acmicpc.net/problem/10989)
 
+
+## 📅 24.09.13(금) - Day_110
+
+### 📝 오늘의 학습 목록
+- **백준 ATM** : sort
+[🎶](https://www.acmicpc.net/problem/11399)
 ---
