@@ -34,7 +34,6 @@ void uni (string a, string b) {
 
 int main(int argc, char** argv)
 {	
-
 	cin.tie(NULL);
 	ios_base::sync_with_stdio(false);
 	int tn;
