@@ -678,4 +678,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 K 번째 수** : sort
 [🎶](https://www.acmicpc.net/problem/11004)
+
+## 📅 24.09.15(일) - Day_112
+
+### 📝 오늘의 학습 목록
+- **백준 수 정렬하기 2** : sort
+[🎶](https://www.acmicpc.net/problem/2751)
 ---
