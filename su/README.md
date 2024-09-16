@@ -664,7 +664,7 @@ If you don't do it, you'll die
 ## 📅 24.09.12(목) - Day_109
 
 ### 📝 오늘의 학습 목록
-- **백준 수 정렬하기** : sort
+- **백준 수 정렬하기 3** : sort
 [🎶](https://www.acmicpc.net/problem/10989)
 
 ## 📅 24.09.13(금) - Day_110
@@ -684,4 +684,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 수 정렬하기 2** : sort
 [🎶](https://www.acmicpc.net/problem/2751)
+
+## 📅 24.09.16(월) - Day_113
+
+### 📝 오늘의 학습 목록
+- **백준 연결 요소의 개수** : dfs
+[🎶](https://www.acmicpc.net/problem/11724)
 ---
