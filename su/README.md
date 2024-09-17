@@ -690,4 +690,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 연결 요소의 개수** : dfs
 [🎶](https://www.acmicpc.net/problem/11724)
+
+## 📅 24.09.17(화) - Day_114
+
+### 📝 오늘의 학습 목록
+- **백준 신기한 소수** : dfs
+[🎶](https://www.acmicpc.net/problem/2023)
 ---
