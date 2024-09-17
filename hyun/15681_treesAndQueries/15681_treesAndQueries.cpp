@@ -25,6 +25,7 @@ int main() {
 	ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
 	int root;
 	cin >> node >> root >> query;
+	
 	for (int i = 0; i < node - 1; i++) {
 		cin >> s >> e;
 		v[s].push_back(e);
