@@ -696,4 +696,11 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 신기한 소수** : dfs
 [🎶](https://www.acmicpc.net/problem/2023)
+
+## 📅 24.09.18(수) - Day_115
+
+### 📝 오늘의 학습 목록
+- **백준 ABCDE** : dfs
+-> 진짜 어이없는게 모두 친구인게 아니라 다섯명이 서로를 가리키면 되는거였음 진짜 어이없어
+[🎶](https://www.acmicpc.net/problem/13023)
 ---
