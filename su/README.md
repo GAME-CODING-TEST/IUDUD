@@ -707,6 +707,12 @@ If you don't do it, you'll die
 ## 📅 24.09.19(목) - Day_116
 
 ### 📝 오늘의 학습 목록
-- **백준 DSF와 BFD** : dfs, bfs
+- **백준 DFS와 BFS** : dfs, bfs
 [🎶](https://www.acmicpc.net/problem/1260)
+
+## 📅 24.09.20(금) - Day_117
+
+### 📝 오늘의 학습 목록
+- **백준 미로 탐색** : bfs
+[🎶](https://www.acmicpc.net/problem/2178)
 ---
