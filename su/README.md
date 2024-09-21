@@ -715,4 +715,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 미로 탐색** : bfs
 [🎶](https://www.acmicpc.net/problem/2178)
+
+## 📅 24.09.21(토) - Day_118
+
+### 📝 오늘의 학습 목록
+- **백준 트리의 지름** : dfs
+[🎶](https://www.acmicpc.net/problem/1167)
 ---
