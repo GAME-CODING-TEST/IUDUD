@@ -721,4 +721,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 트리의 지름** : dfs
 [🎶](https://www.acmicpc.net/problem/1167)
+
+## 📅 24.09.22(일) - Day_119
+
+### 📝 오늘의 학습 목록
+- **백준 수 찾기** : set
+[🎶](https://www.acmicpc.net/problem/1920)
 ---
