@@ -727,4 +727,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 수 찾기** : set
 [🎶](https://www.acmicpc.net/problem/1920)
+
+## 📅 24.09.23(월) - Day_120
+
+### 📝 오늘의 학습 목록
+- **백준 문자열 집합** : set
+[🎶](https://www.acmicpc.net/problem/14425)
 ---
