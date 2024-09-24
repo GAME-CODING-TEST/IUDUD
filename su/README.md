@@ -733,4 +733,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 문자열 집합** : set
 [🎶](https://www.acmicpc.net/problem/14425)
+
+## 📅 24.09.24(화) - Day_121
+
+### 📝 오늘의 학습 목록
+- **백준 CD** : map
+[🎶](https://www.acmicpc.net/problem/4158)
 ---
