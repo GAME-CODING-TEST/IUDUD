@@ -739,4 +739,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 CD** : map
 [🎶](https://www.acmicpc.net/problem/4158)
+
+## 📅 24.09.25(수) - Day_122
+
+### 📝 오늘의 학습 목록
+- **백준 홀짝** : 문자열
+[🎶](https://www.acmicpc.net/problem/5988)
 ---
