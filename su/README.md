@@ -745,4 +745,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 홀짝** : 문자열
 [🎶](https://www.acmicpc.net/problem/5988)
+
+## 📅 24.09.26(목) - Day_123
+
+### 📝 오늘의 학습 목록
+- **백준 보물** : sort
+[🎶](https://www.acmicpc.net/problem/1026)
 ---
