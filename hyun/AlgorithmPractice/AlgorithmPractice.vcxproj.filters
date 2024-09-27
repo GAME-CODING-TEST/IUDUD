@@ -13,13 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="리소스 파일\1_BruteForce">
+    <Filter Include="소스 파일\1_BruteForce">
       <UniqueIdentifier>{b0e758ac-8835-49fc-be09-de23c20e45e4}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1816_password.cpp">
-      <Filter>리소스 파일\1_BruteForce</Filter>
+      <Filter>소스 파일\1_BruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="14568_candy.cpp">
+      <Filter>소스 파일\1_BruteForce</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
