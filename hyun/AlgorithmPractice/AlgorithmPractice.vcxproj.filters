@@ -27,5 +27,8 @@
     <ClCompile Include="19532_mathClass.cpp">
       <Filter>소스 파일\1_BruteForce</Filter>
     </ClCompile>
+    <ClCompile Include="2503_numberBassBall.cpp">
+      <Filter>소스 파일\1_BruteForce</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
