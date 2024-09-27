@@ -24,5 +24,8 @@
     <ClCompile Include="14568_candy.cpp">
       <Filter>소스 파일\1_BruteForce</Filter>
     </ClCompile>
+    <ClCompile Include="19532_mathClass.cpp">
+      <Filter>소스 파일\1_BruteForce</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
