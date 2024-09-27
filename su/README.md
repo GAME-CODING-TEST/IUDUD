@@ -751,4 +751,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 보물** : sort
 [🎶](https://www.acmicpc.net/problem/1026)
+
+## 📅 24.09.27(금) - Day_124
+
+### 📝 오늘의 학습 목록
+- **백준 최대 힙** : queue
+[🎶](https://www.acmicpc.net/problem/11279)
 ---
