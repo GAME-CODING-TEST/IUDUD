@@ -757,4 +757,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 최대 힙** : queue
 [🎶](https://www.acmicpc.net/problem/11279)
+
+## 📅 24.09.28(토) - Day_125
+
+### 📝 오늘의 학습 목록
+- **백준 두 수의 합** : 투포인트
+[🎶](https://www.acmicpc.net/problem/3273)
 ---
