@@ -769,4 +769,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 기타줄** : 그리디 알고리즘
 [🎶](https://www.acmicpc.net/problem/1049)
+
+## 📅 24.09.30(월) - Day_127
+
+### 📝 오늘의 학습 목록
+- **백준 N과 M 3** : 백트래킹
+[🎶](https://www.acmicpc.net/problem/15651)
 ---
