@@ -775,4 +775,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 N과 M 3** : 백트래킹
 [🎶](https://www.acmicpc.net/problem/15651)
+
+## 📅 24.10.01(월) - Day_128
+
+### 📝 오늘의 학습 목록
+- **백준 토너먼트** : 수학
+[🎶](https://www.youtube.com/watch?v=pi_lQDEJqKk)
 ---
