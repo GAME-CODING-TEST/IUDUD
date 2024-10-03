@@ -787,4 +787,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 점프왕 쩰리 (Small)** : bfs
 [🎶](https://www.acmicpc.net/problem/16173)
+
+## 📅 24.10.03(목) - Day_130
+
+### 📝 오늘의 학습 목록
+- **백준 알파벳** : 비트마스킹
+[🎶](https://www.acmicpc.net/problem/1987)
 ---
