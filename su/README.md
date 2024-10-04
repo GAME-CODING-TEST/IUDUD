@@ -793,4 +793,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 알파벳** : 비트마스킹
 [🎶](https://www.acmicpc.net/problem/1987)
+
+## 📅 24.10.04(금) - Day_131
+
+### 📝 오늘의 학습 목록
+- **백준 붙임성 좋은 총총이** : set
+[🎶](https://www.acmicpc.net/problem/26069)
 ---
