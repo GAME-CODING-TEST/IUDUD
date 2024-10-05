@@ -799,4 +799,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 붙임성 좋은 총총이** : set
 [🎶](https://www.acmicpc.net/problem/26069)
+
+## 📅 24.10.05(토) - Day_132
+
+### 📝 오늘의 학습 목록
+- **백준 수강신청** : set
+[🎶](https://www.acmicpc.net/problem/13414)
 ---
