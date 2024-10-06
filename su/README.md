@@ -811,4 +811,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 파일정리** : map
 [🎶](https://www.acmicpc.net/problem/20291)
+
+## 📅 24.10.07(월) - Day_134
+
+### 📝 오늘의 학습 목록
+- **백준 수들의 합2** : topoint, 누적합
+[🎶](https://www.acmicpc.net/problem/2003)
 ---
