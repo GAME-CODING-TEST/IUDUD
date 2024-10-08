@@ -817,4 +817,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 수들의 합2** : topoint, 누적합
 [🎶](https://www.acmicpc.net/problem/2003)
+
+## 📅 24.10.08(화) - Day_135
+
+### 📝 오늘의 학습 목록
+- **백준 수열 (Easy)** : 누적합
+[🎶](https://www.acmicpc.net/problem/23827)
 ---
