@@ -823,4 +823,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 수열 (Easy)** : 누적합
 [🎶](https://www.acmicpc.net/problem/23827)
+
+## 📅 24.10.09(수) - Day_136
+
+### 📝 오늘의 학습 목록
+- **백준 고양이 카페** : 투포인터
+[🎶](https://www.acmicpc.net/problem/28353)
 ---
