@@ -829,4 +829,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 고양이 카페** : 투포인터
 [🎶](https://www.acmicpc.net/problem/28353)
+
+## 📅 24.10.10(목) - Day_137
+
+### 📝 오늘의 학습 목록
+- **백준 촌수계산** : bfs
+[🎶](https://www.acmicpc.net/problem/2644)
 ---
