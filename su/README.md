@@ -835,4 +835,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 촌수계산** : bfs
 [🎶](https://www.acmicpc.net/problem/2644)
+
+## 📅 24.10.11(금) - Day_138
+
+### 📝 오늘의 학습 목록
+- **백준 발머의 피크 이론** : 누적합
+[🎶](https://www.acmicpc.net/problem/27496)
 ---
