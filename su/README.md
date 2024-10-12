@@ -841,4 +841,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 발머의 피크 이론** : 누적합
 [🎶](https://www.acmicpc.net/problem/27496)
+
+## 📅 24.10.12(토) - Day_139
+
+### 📝 오늘의 학습 목록
+- **백준 박스 나누기 게임** : DP
+[🎶](https://www.acmicpc.net/problem/11867)
 ---
