@@ -847,4 +847,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 박스 나누기 게임** : DP
 [🎶](https://www.acmicpc.net/problem/11867)
+
+## 📅 24.10.13(일) - Day_140
+
+### 📝 오늘의 학습 목록
+- **백준 문자열 폭발** : stack
+[🎶](https://www.acmicpc.net/problem/9935)
 ---
