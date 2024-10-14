@@ -853,4 +853,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 문자열 폭발** : stack
 [🎶](https://www.acmicpc.net/problem/9935)
+
+## 📅 24.10.14(월) - Day_141
+
+### 📝 오늘의 학습 목록
+- **Biko 다운로드 목록** : 수학
+[🎶](https://www.biko.kr/problem/1612)
 ---
