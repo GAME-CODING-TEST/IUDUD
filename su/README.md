@@ -883,4 +883,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 배부른 마라토너** : map
 [🎶](https://www.acmicpc.net/problem/10546)
+
+## 📅 24.10.19(토) - Day_146
+
+### 📝 오늘의 학습 목록
+- **백준 헌내기는 친구가 필요해** : bfs
+[🎶](https://www.acmicpc.net/problem/21736)
 ---
