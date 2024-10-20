@@ -889,4 +889,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 헌내기는 친구가 필요해** : bfs
 [🎶](https://www.acmicpc.net/problem/21736)
+
+## 📅 24.10.20(일) - Day_147
+
+### 📝 오늘의 학습 목록
+- **백준 알파벳 블록** : queue
+[🎶](https://www.acmicpc.net/problem/27497)
 ---
