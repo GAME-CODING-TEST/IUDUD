@@ -895,4 +895,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 알파벳 블록** : queue
 [🎶](https://www.acmicpc.net/problem/27497)
+
+## 📅 24.10.21(월) - Day_148
+
+### 📝 오늘의 학습 목록
+- **백준 크리스마스 선물** : queue
+[🎶](https://www.acmicpc.net/problem/14235)
 ---
