@@ -901,4 +901,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 크리스마스 선물** : queue
 [🎶](https://www.acmicpc.net/problem/14235)
+
+## 📅 24.10.22(화) - Day_149
+
+### 📝 오늘의 학습 목록
+- **백준 점프 점프** : dfs
+[🎶](https://www.acmicpc.net/problem/14248)
 ---
