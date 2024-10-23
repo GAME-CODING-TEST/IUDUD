@@ -907,4 +907,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 점프 점프** : dfs
 [🎶](https://www.acmicpc.net/problem/14248)
+
+## 📅 24.10.23(수) - Day_150
+
+### 📝 오늘의 학습 목록
+- **백준 접미사 배열** : sort
+[🎶](https://www.acmicpc.net/problem/11656)
 ---
