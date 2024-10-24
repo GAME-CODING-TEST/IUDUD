@@ -913,4 +913,10 @@ If you don't do it, you'll die
 ### 📝 오늘의 학습 목록
 - **백준 접미사 배열** : sort
 [🎶](https://www.acmicpc.net/problem/11656)
+
+## 📅 24.10.24(목) - Day_151
+
+### 📝 오늘의 학습 목록
+- **백준 국회의원 선거** : queue
+[🎶](https://www.acmicpc.net/problem/1417)
 ---
